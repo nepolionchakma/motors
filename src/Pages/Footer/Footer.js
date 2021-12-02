@@ -54,7 +54,7 @@ const Footer = () => {
                 </div>
                 <hr />
                 <div className="text-center py-3">
-                    <p>All Reserved By<Link to="/" className=" text-decoration-none"> &copy; MOTORS </Link>2021</p>
+                    <p>All Reserved By<Link to="/" className=" text-decoration-none"> &copy; MOTORS GARI</Link>2021</p>
 
                 </div>
             </div>

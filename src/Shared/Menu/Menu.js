@@ -12,7 +12,7 @@ const Menu = () => {
         <div className="sticky-top ">
             <Navbar bg="light" expand="lg">
                 <Container>
-                    <Navbar.Brand className="fw-bold" as={HashLink} to="/home"><span className="text-danger fw-bold">M</span>OTORS</Navbar.Brand>
+                    <Navbar.Brand className="fw-bold fst-italic" as={HashLink} to="/home"><span className="text-danger fw-bold">M</span>OTORS GARI</Navbar.Brand>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse id="basic-navbar-nav">
                         <Nav className="me-auto">
