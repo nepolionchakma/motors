@@ -1,6 +1,6 @@
-# JUM MOTORS Project
+# MOTORS GARI Project
 
-On live Link [JUM-MOTORS](https://jum-motors.netlify.app/).
+On live Link [MOTORS GARI](https://motors-gari.netlify.app/).
 
 ## Available Features:
 
